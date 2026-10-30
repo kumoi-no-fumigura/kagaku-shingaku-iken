@@ -1,10 +1,15 @@
 {
- "work": "新学異見",
+ "work": "新学異見（続日本歌学全書本）",
  "work_id": "zokukagaku04-shingaku-iken",
  "repo": "kumoi-no-fumigura/kagaku-shingaku-iken",
  "yomi": "しんがくいけん",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書",
+  "era": "文化10年（1813）2月序",
+  "author": "香川景樹（1768〜1843）",
+  "desc": "賀茂真淵の『にひまなび』に反論した書。条ごとに引いて批判し、真淵の復古主義を退けて古今集を擁護し、今を重んじる立場を示す。"
+ },
  "editions": [
   {
    "pid": "993382",
